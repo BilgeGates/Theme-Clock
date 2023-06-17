@@ -8,6 +8,6 @@
 
      git clone https://github.com/BilgeGates/Theme-Clock.git  
 
-<a href="https://velvety-dieffenbachia-833409.netlify.app" target="_blank">Live Demo</a>
+<a href="https://velvety-dieffenbachia-833409.netlify.app">Live Demo</a>
 
 ## Haven a nice day!
