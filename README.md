@@ -10,6 +10,6 @@
 
 ## Live Demo
 
-#### https://velvety-dieffenbachia-833409.netlify.app
+https://velvety-dieffenbachia-833409.netlify.app
 
 ## Haven a nice day!
